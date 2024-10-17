@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GenericQueue": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
